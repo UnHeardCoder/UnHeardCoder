@@ -1,5 +1,9 @@
 # 👋 Hi, I'm @UnHeardCoder  
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/8b82be8c-4612-4fc6-8eb0-d3956ae65bc1/thumbnail" >
+</p>
+
 ## About Me  
 💻 Exploring the world of technology and software development.  
 🎮 Interested in software development, game design, blockchain, cybersecurity, AI, and more.  
