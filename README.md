@@ -1,6 +1,3 @@
-
-Visual Studio Code
-
 <div align="center">
  
 # Hey, I'm Ben 👋
@@ -53,11 +50,11 @@ A few notable side projects from the learning journey:
  
 ---
  
-<div align="center">
+<p align="center">
  
-![UnHeardCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnHeardCoder&show_icons=true&theme=tokyonight&hide_border=true)
- 
-</div>
+  <img src="https://api.boot.dev/v1/users/public/8b82be8c-4612-4fc6-8eb0-d3956ae65bc1/thumbnail" >
+  
+</p>
  
 ---
  
